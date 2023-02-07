@@ -1,0 +1,12 @@
+[10-Feb-2019 00:52:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/lbb/public_html/test/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/bootstrap/app.php on line 14
+[10-Feb-2019 07:38:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/lbb/public_html/test/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/bootstrap/app.php on line 14
+[12-Feb-2019 19:00:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/lbb/public_html/test/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/bootstrap/app.php on line 14

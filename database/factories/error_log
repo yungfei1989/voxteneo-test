@@ -1,0 +1,4 @@
+[10-Feb-2019 00:26:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/lbb/public_html/test/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/database/factories/UserFactory.php on line 16

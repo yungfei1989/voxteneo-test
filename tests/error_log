@@ -1,0 +1,2 @@
+[07-Feb-2019 16:29:39 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/lbb/public_html/test/tests/TestCase.php on line 7
+[12-Feb-2019 19:46:16 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/lbb/public_html/test/tests/TestCase.php on line 7

@@ -1,0 +1,9 @@
+[07-Feb-2019 21:07:36 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/lbb/public_html/test/database/seeds/PriceListsTableSeeder.php on line 5
+[08-Feb-2019 02:35:54 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/lbb/public_html/test/database/seeds/UsersTableSeeder.php on line 5
+[08-Feb-2019 02:42:45 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/lbb/public_html/test/database/seeds/TransactionsTableSeeder.php on line 7
+[08-Feb-2019 02:43:17 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/lbb/public_html/test/database/seeds/ItemsTableSeeder.php on line 5
+[10-Feb-2019 00:15:55 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/lbb/public_html/test/database/seeds/StudentSchoolsTableSeeder.php on line 5
+[10-Feb-2019 00:37:51 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/lbb/public_html/test/database/seeds/TransactionLinesTableSeeder.php on line 5
+[10-Feb-2019 15:28:09 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/lbb/public_html/test/database/seeds/StudentsTableSeeder.php on line 5
+[10-Feb-2019 23:17:03 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/lbb/public_html/test/database/seeds/SchoolsTableSeeder.php on line 5
+[11-Feb-2019 20:38:19 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Database\Seeder' not found in /home/lbb/public_html/test/database/seeds/DatabaseSeeder.php on line 5

@@ -1,0 +1,1 @@
+[19-Feb-2019 22:46:30 Asia/Jakarta] PHP Fatal error:  Out of memory (allocated 412614656) (tried to allocate 19418611 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Json/JsonFile.php on line 270

@@ -1,0 +1,1 @@
+[11-Feb-2019 15:12:44 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/lbb/public_html/test/app/Exceptions/Handler.php on line 8

@@ -1,0 +1,1 @@
+[11-Feb-2019 15:49:35 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/lbb/public_html/test/app/Http/Controllers/TransactionController.php on line 9

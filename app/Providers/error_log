@@ -1,0 +1,1 @@
+[11-Feb-2019 15:01:56 Asia/Jakarta] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/lbb/public_html/test/app/Providers/RouteServiceProvider.php on line 8

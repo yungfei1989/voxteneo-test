@@ -1,0 +1,32 @@
+[07-Feb-2019 16:31:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/lbb/public_html/test/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/config/filesystems.php on line 16
+[07-Feb-2019 21:01:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/lbb/public_html/test/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/config/cache.php on line 18
+[08-Feb-2019 02:26:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/lbb/public_html/test/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/config/app.php on line 16
+[08-Feb-2019 02:33:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/lbb/public_html/test/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/config/broadcasting.php on line 18
+[08-Feb-2019 02:44:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/lbb/public_html/test/config/services.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/config/services.php on line 23
+[08-Feb-2019 20:58:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/lbb/public_html/test/config/mail.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/config/mail.php on line 74
+[09-Feb-2019 19:47:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/lbb/public_html/test/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/config/queue.php on line 18
+[10-Feb-2019 00:58:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/lbb/public_html/test/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lbb/public_html/test/config/view.php on line 17
